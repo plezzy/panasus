@@ -46,3 +46,14 @@ header
     padding-right: 0rem;
 }
 
+footer
+{
+    width: 100%;
+    text-align: center;
+    background-color: darkgray;
+    color:black;
+    font-weight: bold;
+    padding: 4rem;
+    font-size: 1.4rem;
+    margin-top: 4rem;
+}
