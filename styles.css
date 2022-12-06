@@ -91,3 +91,15 @@ header div
     width: 3rem;
     margin-right: 0.8rem;
 }
+
+footer div
+{
+    font-size: 0.7rem;
+    margin: auto;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 15rem;
+    padding: 0.3rem;
+    margin-top: 0.8rem;
+}
