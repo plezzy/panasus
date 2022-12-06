@@ -29,6 +29,8 @@ header
     color: white;
     padding: 5.5rem;
     text-align: center;
+    display: inline-flex;
+    padding-left: 32rem;
 }
 
 .principalInf
@@ -77,4 +79,15 @@ footer
     margin-top: 4rem;
     border-top: 0.2rem solid black;
     box-shadow: -4px -30px 130px -32px rgba(0,0,0,0.75);
+}
+
+header div img
+{
+    width: 2.5rem;
+}
+
+header div
+{
+    width: 3rem;
+    margin-right: 0.8rem;
 }
